@@ -1,4 +1,4 @@
-## Hi there 👋# 💫 About Me:# 💫 About Me:
+## Hi there 👋# 💫 About Me:
 🔭 I’m currently working on: building my foundation in Computer Science and Data Science in Christ Engineering College.<br>👯 I’m looking to collaborate on: student projects,coding,hackathons and innovative student initiatives.<br>🤝 I’m looking for help with: enhancing my programming skills and exploring real-world applications of data science.<br>🌱 I’m currently learning: python and problem solving techniques.<br>💬 Ask me about: unique project ideas,coding and creative approaches to technology.<br>⚡ Fun fact: I enjoy combining technology with creativity-whether its developing projects or taking lead in group activities to bring concepts to life.
 
 
